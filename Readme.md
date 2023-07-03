@@ -7,7 +7,7 @@
 
 ---
 
-1. [What is Diva](#1-what-is-diva)
+1. [What is Diva Staking](#1-what-is-diva-staking)
 2. [Motivation](#2-motivation)
 3. [Initial Distribution Design Parameters](#3-initial-distribution-design-parameters)
 4. [Selection criteria](#4-selection-criteria)
@@ -24,7 +24,7 @@
 
 ----
 
-## 1. What is Diva
+## 1. What is Diva Staking
 
 Diva Staking is an Ethereum Liquid Staking protocol powered by Distributed Validator Technology (DVT).
 
@@ -210,7 +210,7 @@ Uniswap airdrop receivers that hold their UNI tokens until the snapshot date and
 
 Users that hold their MKR tokens at the snapshot date and have also voted with their tokens. Being long-term active holders and active participants indicates an outstanding commitment and responsibility, proving they are valuable contributors that could help the Diva Staking protocol by bringing plenty of expertise. In this case, were selected users that,
 
-- Hold MKR tokens at the snapshot block, became delegates **and** voted at least once in the governor contract (`0xD3A9FE267852281a1e6307a1C37CDfD76d39b133`) during the last year.
+- Hold MKR tokens at the snapshot block **and** created at least one poll in the polling contract (`0xD3A9FE267852281a1e6307a1C37CDfD76d39b133`) during the last year.
 
 | DAO community |  Number of unique addresses selected | DIVAs claimable per address |  Share of the airdrop | 
 |---|---|---|---|
