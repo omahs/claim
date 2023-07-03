@@ -150,7 +150,7 @@ Diva Staking is, above all, a project shaped around Distributed Validator Techno
 
 #### **Gnosis + Dappnode operators**
 
-Gnosis serves as a canary network for Ethereum and has become a significant advocate of credible neutrality, client diversity, and decentralization. Further the Gnosis ecosystem has been one of the earliest supporters of the Diva Staking Protocol and a major pillar enabling the development of this project. The Diva Staking community fully aligns with Gnosis values, so  people that staked in Gnosis and run a node, including those who have done so using a Dappnode and benefited from its promotion were included. As these operators have shown commitment and skill in operating within Gnosis, the Diva Staking community would love to welcome them and hope they consider contributing to the Diva Staking infrastructure as well. For that reason, were selected users that,
+Gnosis serves as a canary network for Ethereum and has become a significant advocate of credible neutrality, client diversity, and decentralization. Further, the Gnosis ecosystem has been one of the earliest supporters of the Diva Staking Protocol and a major pillar enabling the development of this project. The Diva Staking community fully aligns with Gnosis values, so  people that staked in Gnosis and run a node, including those who have done so using a Dappnode and benefited from its promotion, were included. As these operators have shown commitment and skill in operating within Gnosis, the Diva Staking community would love to welcome them and hope they consider contributing to the Diva Staking infrastructure as well. For that reason, users were selected that,
 
 - Created at least one validator using the Gnosis + Dappnode incentives program contract (`0x6c68322cf55f5f025f2aebd93a28761182d077c3`), or
 - Created at least one validator using the Gnosis SBC contract (`0x647507a70ff598f386cb96ae5046486389368c66`), or
@@ -210,7 +210,7 @@ Uniswap airdrop receivers that hold their UNI tokens until the snapshot date and
 
 Users that hold their MKR tokens at the snapshot date and have also voted with their tokens. Being long-term active holders and active participants indicates an outstanding commitment and responsibility, proving they are valuable contributors that could help the Diva Staking protocol by bringing plenty of expertise. In this case, were selected users that,
 
-- Hold MKR tokens at the snapshot block **and** created at least one poll in the polling contract (`0xD3A9FE267852281a1e6307a1C37CDfD76d39b133`) during the last year.
+- Hold MKR tokens at the snapshot block **and** voted at least once in a poll of the polling contract (`0xD3A9FE267852281a1e6307a1C37CDfD76d39b133`) during the last year.
 
 | DAO community |  Number of unique addresses selected | DIVAs claimable per address |  Share of the airdrop | 
 |---|---|---|---|
@@ -218,7 +218,7 @@ Users that hold their MKR tokens at the snapshot date and have also voted with t
 
 #### **LobsterDAO holders & active delegates**
 
-LobsterDAO is well known for being one of the oldest and more influential communities within the ecosystem. They have proven their capacity to get involved from the very beginning and helping to shape a community from the grounds up.  From this community were chosen users that,
+LobsterDAO is well known for being one of the oldest and more influential communities within the ecosystem. They have proven their capacity to get involved from the very beginning and helping to shape a community from the ground up.  From this community were chosen users that,
 
 - Held LOBS at the snapshot block **and** voted at least three times during the last year.
 
