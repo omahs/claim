@@ -106,7 +106,7 @@ They have been true pioneers, and we really admire the first brave stakers that 
 
 #### **EthStaker community**
 
-It's the biggest community within Ethereum fully devoted to providing guidance, education, support, and resources for existing and potential stakers. We consider them a community truly aligned with Diva Staking and Ethereum core values, and for that reason, they will add exceptcional value to the Diva Staking community as well. The most representative stakers and advocates from these communities were chosen by crafting a curated list to avoid airdrop hunters.
+It's the biggest community within Ethereum fully devoted to providing guidance, education, support, and resources for existing and potential stakers. We consider them a community truly aligned with Diva Staking and Ethereum core values, and for that reason, they will add exceptional value to the Diva Staking community as well. The most representative stakers and advocates from these communities were chosen by crafting a curated list to avoid airdrop hunters.
 
 | Staking community |  Number of unique addresses selected | DIVAs claimable per address |  Share of the airdrop |  
 |---|---|---|---|
